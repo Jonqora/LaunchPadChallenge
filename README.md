@@ -45,5 +45,5 @@ The knowledge I have on adapting webpages for small screens comes from two main 
 
 
 ### Summary
-If I were to help plan a new and high-quality mobile web experience for a complex web app, I would raise these topics: 1) adaptive vs responsive approach, 2) user-centered UX design, and 3) code modularity on both front and back end. Aid one final note: if my friends and I have built our DRUBER startup web app using any particular web frameworks (I'd sure hope so!), the specific frameworks we already chose will likely influence and inform our final implementation of changes to realize a mobile-friendly site view. 
+If I were to help plan a new and high-quality mobile web experience for a complex web app, I would raise these topics: 1) adaptive vs responsive approach, 2) user-centered UX design, and 3) code modularity on both front and back end. As a final thought, I'll also note: if my friends and I built our DRUBER startup web app using any particular web frameworks (I'd sure hope so!), the specific frameworks that we use will likely influence and inform our final implementation of changes to realize a mobile-friendly site view. 
 
