@@ -9,12 +9,13 @@ My technical challenge submission for Fall 2022 application to UBC Launch Pad.
 > You and your friends are developing a new start-up called DRUBER, a drone-based ride share application that carries you to your destination. The original specification was to develop a web page that works in 1920x1080 however your company has realized that it is missing an entire market of smartphone users. Describe how you can modify your code to work in smartphone resolutions e.g. 750x1334 (iPhone 8). Please give specific examples where possible, but do not implement an entire DRUBER clone!
 
 ## Answer
-I will start by providing context of my background knowledge for this prompt, then will discuss different decision areas that could be considered when planning and implementing changes to optimie the DRUBER 🛸 website for smartphone use.
+I will start by providing context of my background knowledge for this prompt, then will discuss different decision areas that could be considered when planning and implementing changes to optimize the DRUBER 🛸 website for smartphone use.
 
 ### My background
 The knowledge I have so far on adapting code for small screens comes from two main sources. I will draw on both plus general knowledge.
 - **Building [my personal website](https://ellenlloyd.ca/) to be fully responsive.** This is a simple, static site in vanilla HTML/CSS/JS, but I really wanted it to look clean and organized on all devices. In my quest to do this I learned a lot about Flexbox, media queries, and rule hierarchies in CSS.
 - **Interning on an enterprise SAAS web app with limited to no mobile accessibility.** We just don't have it! At work we are saddled with a 20-year-old code base having a lot of technical debt; the extent of changes needed to provide a mobile experience just hasn't been overcome. Here I gained a better understanding of barriers and challenges that can stand in the way of modifying websites for good mobile design. 
+
 I tend to be a big-picture sort of thinker, and although I'm a Developer applicant my response here trends more into Design territory - I hope that's okay. 😊 I like to work closely with design thinking when I code.
 
 ### 🛸 Decisions: Refining the Problem
